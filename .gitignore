@@ -1,0 +1,15 @@
+**/weights/*
+!**/weights/1_Pooling/
+!**/weights/1_Pooling/config.json
+!**/weights/added_tokens.json
+!**/weights/config.json
+!**/weights/config_sentence_transformers.json
+!**/weights/modeling.py
+!**/weights/modules.json
+!**/weights/sentence_bert_config.json
+!**/weights/special_tokens_map.json
+!**/weights/tokenizer_config.json
+**/.cache/
+**/.cog/
+**/__pycache__/
+*.py[cod]
