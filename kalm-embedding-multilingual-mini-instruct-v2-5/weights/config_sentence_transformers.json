@@ -1,0 +1,13 @@
+{
+  "__version__": {
+    "sentence_transformers": "3.4.1",
+    "transformers": "4.45.0",
+    "pytorch": "2.1.2+cu121"
+  },
+  "prompts": {
+    "query": "Instruct: Given a query, retrieve documents that answer the query \n Query: ",
+    "document": ""
+  },
+  "default_prompt_name": null,
+  "similarity_fn_name": "cosine"
+}
